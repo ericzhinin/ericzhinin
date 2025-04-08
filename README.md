@@ -3,7 +3,7 @@
 - 🌱 I’m continuing to sharpen my skills in SQL, Tableau, Python and Power BI.
 - 💞️ I’m looking to collaborate on sports-focused projects.
 - 📫 Reach me on LinkedIn.
-- ⚡ Fun fact: Triathlete, Footballer, Philanthropist, and Health Coach.
+- ⚡ Fun fact: Triathlete, Footballer, Marathoner, Philanthropist, and Health Coach.
 
 <!---
 ericzhinin/ericzhinin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
